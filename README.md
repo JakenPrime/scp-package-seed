@@ -1,4 +1,4 @@
-# Synergy Control Panel Package Seed
+# Setting up a new SynergyCP Package
 
  - Copy the contents of this repository to a new directory in the `packages` folder of the SynergyCP Application.
  - Placeholder text is distributed throughout the sourcecode:
@@ -9,3 +9,4 @@
  - Add the Provider to `provides/Providers.php`.
  - Update the README.md file.
  - [Add the package](https://github.com/synergycp/scp-package-seed/wiki/Adding-a-Package-to-the-Application) to the Application.
+ - [Read the Wiki](https://github.com/synergycp/scp-package-seed/wiki) to get familiar with the package structure.
